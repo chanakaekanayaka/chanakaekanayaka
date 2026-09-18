@@ -45,11 +45,10 @@ I am a Software Engineering enthusiast focused on building **scalable web applic
 
 <div align="center">
 
-| **Core Stats** | **Language Proficiency** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=chanakaekanayaka&show_icons=true&theme=tokyonight&hide_border=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakaekanayaka&layout=compact&theme=tokyonight&hide_border=true" width="400" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=chanakaekanayaka&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakaekanayaka&layout=compact&theme=tokyonight&hide_border=true" height="195" />
 
-<br />
+<br /><br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanakaekanayaka&theme=tokyonight&hide_border=true" width="800" />
 
@@ -58,8 +57,6 @@ I am a Software Engineering enthusiast focused on building **scalable web applic
 ---
 
 ## 📧 Contact & Networking
-
-
 
 <div align="center">
   <a href="mailto:chanakaekanayaka15@gmail.com">
